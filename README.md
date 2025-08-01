@@ -1,6 +1,9 @@
 # Hi there 👋
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Limak15&show_icons=true&theme=dark" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limak15&layout=compact&langs_count=6&theme=dark" style="width: 50%;" />
+</div>
 
-[![Limak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limak15)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :skier: Skills
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
